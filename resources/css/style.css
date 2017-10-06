@@ -1,0 +1,42 @@
+a:link,
+	a:visited {
+	background-color: none;
+	color: white;
+}
+
+.banner{
+	margin: auto;
+	width: 100%;
+	height: auto;
+	background-image: url("/Git/broadway/resources/images/the-flatiron-building.png");
+	background-size: cover;
+	
+}
+
+.center{
+	text-align: center;
+}
+
+.container-fluid{
+	margin-top: 20px;
+}
+
+.head{
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+
+.nav {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	padding-bottom: 5px; 
+}
+
+
+
