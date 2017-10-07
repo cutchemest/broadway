@@ -21,8 +21,29 @@ a:link,
 	margin-top: 20px;
 }
 
-.head{
+.u-font{
 	font-family: Helvetica;
+}
+
+h2{
+	
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+h4{
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url("/Git/broadway/resources/images/the-flatiron-building.png");
+}
+
+.head{
 	font-size: 70px;
 	font-weight: bold;
 	color: white;
@@ -30,7 +51,6 @@ a:link,
 
 
 .nav {
-	font-family: Helvetica;
 	font-size: 18px;
 	color: white;
 	text-decoration: underline;
@@ -38,5 +58,12 @@ a:link,
 	padding-bottom: 5px; 
 }
 
+p{
+	font-size: 14px;
+}
 
+.process-info{
+	display:block;
+	list-style: none;
+}
 
