@@ -13,7 +13,11 @@ a:link,
 	margin: auto;
 	width: 100%;
 	height: auto;
+<<<<<<< HEAD
 	background-image: url("/Git/broadway/resources/images/theflatironbuilding.png");
+=======
+	background-image: url("../broadway/resources/images/the-flatiron-building.png");
+>>>>>>> 6ad85b407789b451386d0378f7fcac55ad97020d
 	background-size: cover;
 	
 }
@@ -45,8 +49,12 @@ h4{
 	font-size: 23px;
 	font-weight: bold;
 	color: white;
+<<<<<<< HEAD
 	background-image: url("/Git/broadway/resources/images/theflatironbuilding.png");
 	background-size: cover;
+=======
+	background-image: url("../broadway/resources/images/the-flatiron-building.png");
+>>>>>>> 6ad85b407789b451386d0378f7fcac55ad97020d
 }
 
 .head{
