@@ -13,7 +13,7 @@ a:link,
 	margin: auto;
 	width: 100%;
 	height: auto;
-	background-image: url("/Git/broadway/resources/images/the-flatiron-building.png");
+	background-image: url("/Git/broadway/resources/images/theflatironbuilding.png");
 	background-size: cover;
 	
 }
@@ -45,7 +45,8 @@ h4{
 	font-size: 23px;
 	font-weight: bold;
 	color: white;
-	background-image: url("/Git/broadway/resources/images/the-flatiron-building.png");
+	background-image: url("/Git/broadway/resources/images/theflatironbuilding.png");
+	background-size: cover;
 }
 
 .head{
